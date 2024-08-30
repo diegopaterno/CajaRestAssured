@@ -1,0 +1,13 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"DADA una determinada composicion del requerimiento de cotizacion
+ CUANDO se cotiza una poliza 
+ENTONCES se debe obtener una lista de Promociones & comparar las promociones 
+de la version anterior de la api de promociones con la nueva version","5826","Deberia generar 3 Cotizacion y brindar Promociones ","Default Suite","Fri Aug 30 17:00:48 ART 2024","passed","Fri Aug 30 17:00:54 ART 2024","test.cotizaciones_promociones.GenerarCotiYPromo","PruebaApis","test.cotizaciones_promociones.GenerarCotiYPromo","deberiaGenerarCotizacionYPromociones"
+"DADA una determinada composicion del requerimiento de cotizacion
+ CUANDO se cotiza una poliza 
+ENTONCES se debe obtener una lista de Promociones & comparar las promociones 
+de la version anterior de la api de promociones con la nueva version","12398","Deberia generar 3 Cotizacion y brindar Promociones ","Default Suite","Fri Aug 30 17:00:36 ART 2024","passed","Fri Aug 30 17:00:48 ART 2024","test.cotizaciones_promociones.GenerarCotiYPromo","PruebaApis","test.cotizaciones_promociones.GenerarCotiYPromo","deberiaGenerarCotizacionYPromociones"
+"DADA una determinada composicion del requerimiento de cotizacion
+ CUANDO se cotiza una poliza 
+ENTONCES se debe obtener una lista de Promociones & comparar las promociones 
+de la version anterior de la api de promociones con la nueva version","3996","Deberia generar 3 Cotizacion y brindar Promociones ","Default Suite","Fri Aug 30 17:00:54 ART 2024","failed","Fri Aug 30 17:00:58 ART 2024","test.cotizaciones_promociones.GenerarCotiYPromo","PruebaApis","test.cotizaciones_promociones.GenerarCotiYPromo","deberiaGenerarCotizacionYPromociones"
